@@ -16,3 +16,4 @@ console.log("Hyggehyyyyg");
 
 console.log("en helt ny linje");
 console.log("En til helt ny linje");
+console.log("En tredje helt ny linje");
