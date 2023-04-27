@@ -21,3 +21,4 @@ console.log("Pruuuuut");
 console.log("En tredje helt ny linje");
 console.log("skærmtrold");
 console.log("Jerg ved ikke hvad jeg skal skrive");
+console.log("HYGE NU FOR HELVEDE");
