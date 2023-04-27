@@ -17,7 +17,7 @@ console.log("Hyggehyyyyg");
 console.log("Maskulinum genitalium");
 
 console.log("Pruuuuut");
-console.log("en helt ny linje");
-console.log("En til helt ny linje");
+
 console.log("En tredje helt ny linje");
 console.log("skærmtrold");
+console.log("Jerg ved ikke hvad jeg skal skrive");
