@@ -14,9 +14,10 @@ console.log("Hej med dig igen igen");
 
 console.log("Hyggehyyyyg");
 
-console.log("Tissemand");
+console.log("Maskulinum genitalium");
 
 console.log("Pruuuuut");
 console.log("en helt ny linje");
 console.log("En til helt ny linje");
 console.log("En tredje helt ny linje");
+console.log("skærmtrold");
