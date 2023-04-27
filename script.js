@@ -15,3 +15,4 @@ console.log("Hej med dig igen igen");
 console.log("Hyggehyyyyg");
 
 console.log("en helt ny linje");
+console.log("En til helt ny linje");
