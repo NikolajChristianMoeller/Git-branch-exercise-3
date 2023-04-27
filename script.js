@@ -11,3 +11,5 @@ console.log("Hej Rasmus Cederdorff");
 
 console.log("Hej med dig igen gien");
 console.log("Hej med dig igen gien");
+
+console.log("Hyggehyyyyg");
